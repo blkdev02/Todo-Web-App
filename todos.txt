@@ -1,0 +1,4 @@
+teach Simeon
+learn c++
+apply for jobs
+add more todo
